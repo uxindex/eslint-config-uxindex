@@ -1,6 +1,7 @@
 # eslint-config-uxindex
 
 [![npm version](https://badge.fury.io/js/eslint-config-uxindex.svg)](https://badge.fury.io/js/eslint-config-uxindex)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ux-index/ux-index)
 
 This package provides UX Index's .eslintrc as an extensible shared config.
 
